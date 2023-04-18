@@ -19,3 +19,4 @@ jobs:
           COMMIT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: MetaCubeX/Clash.Meta
           BRANCH: main
+          CREATE_PR: true
